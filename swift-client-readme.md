@@ -59,7 +59,7 @@ Visuals|
 </details>
 
 
-<details>
+<details open>
 <summary>Downloads</summary>
 
 - Worker (Cheat Engine): [Download](https://cheatengine.org)
