@@ -1,5 +1,7 @@
 ## Kobeni Bot Komutları
 
+Hemen Davet Et!: [[Tıkla] - ❤](https://discordapp.com/oauth2/authorize?client_id=567099721047474197&scope=bot&permissions=8)
+
 > Sunucu için özel komutlar dışındaki her Komuttan önce Kobeni'nin ön-ek i gelir. 
 > 
 > Komutlarda küçük/büyük harf hassasiyeti yoktur.
