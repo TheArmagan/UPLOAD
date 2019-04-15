@@ -8,7 +8,7 @@
 
 Komut | Açıklama | Kullanım
 -|-|-
-özelKomutEkle | Sunucunuza özel komut eklemenizi sağlar.. | `özelKomutEkle komutadı::Komut Cevabı. Değişkenler: -etiket -isim -takmaisim`
+özelKomutEkle | Sunucunuza özel komut eklemenizi sağlar.. | `özelKomutEkle komutadı::Komut Cevabı.` Değişkenler: -etiket -isim -takmaisim
 özelKomutKaldır | Sunucunuzdan bir özel komut kaldırmanızı sağlar.. | `özelKomutKaldır komutadı`
 özelKomutListesi | Sunucunuzdaki özel komutların listesi.. |
 
